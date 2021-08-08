@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+Instagram Crawler - Crawling Users and get their details
+Author: Arunkumar
+"""
+
 import os
 import json
 import codecs

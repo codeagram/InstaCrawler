@@ -18,4 +18,4 @@ For Widows Users
 # Usage
 Add your Username and Password to config/credentials.json file
 
-change the execution permission with `chmod +x InstaCrawler.py` or run with `python3 InstaCrawler.py`
+change the execution permission with `chmod +x InstaCrawler.py` and run `./Instacrawler.py` or run with `python3 InstaCrawler.py`
