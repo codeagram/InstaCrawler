@@ -2,7 +2,7 @@
 Clone/Fork or Download the repository 'https://github.com/codeagram/InstaCrawler.git'
 
 # Create a Python Virtual Environment
-  'python3 -m venv venv'
+  `python3 -m venv venv`
 
 # Install the required depensencies
   'pip install -r requirements.txt'
